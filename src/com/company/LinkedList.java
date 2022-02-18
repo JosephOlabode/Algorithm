@@ -1,5 +1,4 @@
 package com.company;
-
 public class LinkedList {
     Node head;
 
@@ -103,8 +102,7 @@ public class LinkedList {
         System.out.println();
     }
 }
-
-class Node {
+ class Node {
     int data;
     Node nextNode = null;
 
